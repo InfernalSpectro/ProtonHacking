@@ -1,5 +1,3 @@
-# ProtonHacking
-
-# Disclaimer
+# 🇧🇷 Disclaimer
 
 Only use this tool for legal activities!
